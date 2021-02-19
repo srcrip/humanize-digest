@@ -24,3 +24,4 @@ This library is based on the work in [codenamize](https://github.com/jjmontesl/c
 - No external dependencies (uses Node and browser-native `crypto` libraries)
 - Can run on the command line
 - Extendable with your favorite word lists
+- WARNING: Not tested in browser yet
