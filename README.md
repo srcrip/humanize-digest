@@ -4,7 +4,7 @@
 import { humanize } from 'humanize-digest'
 
 const uuid = '5b5d5b84-03f2-4a0b-a87f-5b187b0a2765'
-const humanized-uuid = humanize(uuid)
+const humanizedString = humanize(uuid)
 // => adamant-count
 ```
 
